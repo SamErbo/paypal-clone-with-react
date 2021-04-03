@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://SamErbo/github.com/paypal-clone-with-react",
+  "homepage": "https://SamErbo.github.io/paypal-clone-with-react/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
